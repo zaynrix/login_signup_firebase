@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/flutter_linux_v1.9.1+hotfix.6-stable/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.10+2/android/cloud_firestore.iml" filepath="$USER_HOME$/Downloads/flutter_linux_v1.9.1+hotfix.6-stable/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.10+2/android/cloud_firestore.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/flutter_linux_v1.9.1+hotfix.6-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.0+1/android/firebase_auth.iml" filepath="$USER_HOME$/Downloads/flutter_linux_v1.9.1+hotfix.6-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.0+1/android/firebase_auth.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/flutter_linux_v1.9.1+hotfix.6-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.2/android/firebase_core.iml" filepath="$USER_HOME$/Downloads/flutter_linux_v1.9.1+hotfix.6-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.2/android/firebase_core.iml" />
+    </modules>
+  </component>
+</project>

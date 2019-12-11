@@ -1,0 +1,165 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.auth_two"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="26" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml:6:22-64
+15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:13:5-79
+17-->[com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:13:22-76
+18    <!--
+19 io.flutter.app.FlutterApplication is an android.app.Application that
+20         calls FlutterMain.startInitialization(this); in its onCreate method.
+21         In most cases you can leave this as-is, but you if you want to provide
+22         additional functionality it is fine to subclass or reimplement
+23         FlutterApplication and put your custom class here.
+24    -->
+25    <application
+25-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:9:5-32:19
+26        android:name="io.flutter.app.FlutterApplication"
+26-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:10:9-57
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:12:9-43
+29        android:label="auth_two" >
+29-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:11:9-33
+30        <activity
+30-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:13:9-31:20
+31            android:name="com.example.auth_two.MainActivity"
+31-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:14:13-41
+32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+32-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:17:13-144
+33            android:hardwareAccelerated="true"
+33-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:18:13-47
+34            android:launchMode="singleTop"
+34-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:15:13-43
+35            android:theme="@style/LaunchTheme"
+35-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:16:13-47
+36            android:windowSoftInputMode="adjustResize" >
+36-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:19:13-55
+37
+38            <!--
+39                 This keeps the window background of the activity showing
+40                 until Flutter renders its first frame. It can be removed if
+41                 there is no splash screen (such as the default splash screen
+42                 defined in @style/LaunchTheme).
+43            -->
+44            <meta-data
+44-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:24:13-26:40
+45                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+45-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:25:17-82
+46                android:value="true" />
+46-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:26:17-37
+47
+48            <intent-filter>
+48-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:27:13-30:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:28:17-68
+49-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:28:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:29:17-76
+51-->/home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:29:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <service
+55-->[:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+56            android:name="com.google.firebase.components.ComponentDiscoveryService"
+56-->[:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+57            android:exported="false" >
+57-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
+58            <meta-data
+58-->[:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+59                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
+59-->[:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+60                android:value="com.google.firebase.components.ComponentRegistrar" />
+60-->[:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+61            <meta-data
+61-->[:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+62                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
+62-->[:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+63                android:value="com.google.firebase.components.ComponentRegistrar" />
+63-->[:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+64            <meta-data
+64-->[:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+65                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+65-->[:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+66                android:value="com.google.firebase.components.ComponentRegistrar" />
+66-->[:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+67            <meta-data
+67-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
+68                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+68-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
+69                android:value="com.google.firebase.components.ComponentRegistrar" />
+69-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
+70            <meta-data
+70-->[com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:18:13-20:85
+71                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+71-->[com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:19:17-111
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:20:17-82
+73        </service>
+74
+75        <activity
+75-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
+76            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+76-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
+77            android:excludeFromRecents="true"
+77-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
+78            android:exported="true"
+78-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
+79            android:launchMode="singleTask"
+79-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
+80            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+80-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->[com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
+82
+83        <provider
+83-->[com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+84            android:name="com.google.firebase.provider.FirebaseInitProvider"
+84-->[com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+85            android:authorities="com.example.auth_two.firebaseinitprovider"
+85-->[com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+86            android:exported="false"
+86-->[com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+87            android:initOrder="100" />
+87-->[com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+88
+89        <activity
+89-->[com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+90            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+90-->[com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+91            android:exported="false"
+91-->[com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+92-->[com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+93
+94        <meta-data
+94-->[com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+95            android:name="com.google.android.gms.version"
+95-->[com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+96            android:value="@integer/google_play_services_version" />
+96-->[com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+97        <meta-data
+97-->[com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+98            android:name="android.support.VERSION"
+98-->[com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:27:13-51
+99            android:value="26.1.0" />
+99-->[com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:28:13-35
+100    </application>
+101
+102</manifest>

@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [com.android.support:multidex:1.0.3] /home/zayn/.gradle/caches/transforms-2/files-2.1/411bcb56d942dcb4434c394549aacde8/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [io.grpc:grpc-android:1.16.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/a3319f175f3f846c6b90025d015874fb/grpc-android-1.16.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/20e5484763bb42316d68f9ad3fcae944/firebase-auth-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/6ec8dd06a507b840157a6dbb9ddcfed0/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/df2ad64aea77717d1798c7d345e021aa/play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/38073070dc154dea7297d90cfba1e43c/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/9a3afbe9433fc487502bd2200fc4bc93/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/ae64c0fa20662e57ff1a81355a299a3b/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/1d842f1c4ebf0016ab5cda691f8b5d81/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/bd6aa071ebf6f95929f66314bdef99bd/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/c229ef5452c4d6d7254614246b109a3d/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/f2a1e4014d8d77765cc8394e7e27bd66/firebase-database-collection-16.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/a76b374d885f30888d389506a3c6e7cf/protolite-well-known-types-16.0.1/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/20e5484763bb42316d68f9ad3fcae944/firebase-auth-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/20e5484763bb42316d68f9ad3fcae944/firebase-auth-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/df2ad64aea77717d1798c7d345e021aa/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/df2ad64aea77717d1798c7d345e021aa/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/38073070dc154dea7297d90cfba1e43c/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/38073070dc154dea7297d90cfba1e43c/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/9a3afbe9433fc487502bd2200fc4bc93/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/9a3afbe9433fc487502bd2200fc4bc93/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/ae64c0fa20662e57ff1a81355a299a3b/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/ae64c0fa20662e57ff1a81355a299a3b/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/1d842f1c4ebf0016ab5cda691f8b5d81/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/1d842f1c4ebf0016ab5cda691f8b5d81/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/bd6aa071ebf6f95929f66314bdef99bd/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/bd6aa071ebf6f95929f66314bdef99bd/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.auth_two.MainActivity
+ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /home/zayn/.gradle/caches/transforms-2/files-2.1/411bcb56d942dcb4434c394549aacde8/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/zayn/.gradle/caches/transforms-2/files-2.1/411bcb56d942dcb4434c394549aacde8/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/a3319f175f3f846c6b90025d015874fb/grpc-android-1.16.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/a3319f175f3f846c6b90025d015874fb/grpc-android-1.16.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/20e5484763bb42316d68f9ad3fcae944/firebase-auth-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/20e5484763bb42316d68f9ad3fcae944/firebase-auth-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/6ec8dd06a507b840157a6dbb9ddcfed0/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/6ec8dd06a507b840157a6dbb9ddcfed0/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/df2ad64aea77717d1798c7d345e021aa/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/df2ad64aea77717d1798c7d345e021aa/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/38073070dc154dea7297d90cfba1e43c/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/38073070dc154dea7297d90cfba1e43c/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/9a3afbe9433fc487502bd2200fc4bc93/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/9a3afbe9433fc487502bd2200fc4bc93/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/ae64c0fa20662e57ff1a81355a299a3b/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/ae64c0fa20662e57ff1a81355a299a3b/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/1d842f1c4ebf0016ab5cda691f8b5d81/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/1d842f1c4ebf0016ab5cda691f8b5d81/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/bd6aa071ebf6f95929f66314bdef99bd/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/bd6aa071ebf6f95929f66314bdef99bd/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/c229ef5452c4d6d7254614246b109a3d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/c229ef5452c4d6d7254614246b109a3d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/f2a1e4014d8d77765cc8394e7e27bd66/firebase-database-collection-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/f2a1e4014d8d77765cc8394e7e27bd66/firebase-database-collection-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/a76b374d885f30888d389506a3c6e7cf/protolite-well-known-types-16.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/a76b374d885f30888d389506a3c6e7cf/protolite-well-known-types-16.0.1/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /home/zayn/AndroidStudioProjects/auth_two/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:17:9-21:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /home/zayn/AndroidStudioProjects/auth_two/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /home/zayn/AndroidStudioProjects/auth_two/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/715f0023beea44a033311da58a5a7e10/firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/a3319f175f3f846c6b90025d015874fb/grpc-android-1.16.1/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/a3319f175f3f846c6b90025d015874fb/grpc-android-1.16.1/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:13:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/d2a95ec51602faff9960b8fce2a93bbc/firebase-firestore-19.0.0/AndroidManifest.xml:19:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/f04c18fa58f8b559bfc41f7ac4354028/firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zayn/.gradle/caches/transforms-2/files-2.1/1e82b996412030b4892c44a88225f67c/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/2b38a641e6cdd052613d2a3793e9ad8c/play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/38073070dc154dea7297d90cfba1e43c/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/38073070dc154dea7297d90cfba1e43c/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/9a3afbe9433fc487502bd2200fc4bc93/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/9a3afbe9433fc487502bd2200fc4bc93/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/ae64c0fa20662e57ff1a81355a299a3b/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/ae64c0fa20662e57ff1a81355a299a3b/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/1d842f1c4ebf0016ab5cda691f8b5d81/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/1d842f1c4ebf0016ab5cda691f8b5d81/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/bd6aa071ebf6f95929f66314bdef99bd/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/bd6aa071ebf6f95929f66314bdef99bd/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/zayn/.gradle/caches/transforms-2/files-2.1/245bdf0ecbd3c8ce1351ca42c040ba7d/support-v4-26.1.0/AndroidManifest.xml:27:13-51
